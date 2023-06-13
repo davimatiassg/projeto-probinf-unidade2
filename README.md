@@ -1,24 +1,19 @@
 # projeto-probinf-unidade2
 Projeto referente à 2ª unidade da disciplina de Probabilidade e Inferência  [IMD1113] 
 
-## Itens necessários:
+Autoria de:
 
-1. Descrição dos dados
-	- Formulação de hipóteses
+→ Caio Vinícius de Azevedo   - 20220040815;
 
-2. Análise preliminar/pré-processamento
+→ Davi Matias Soares Genuino - 20220042186;
 
-3. Análise drescritiva
-
-4. Amostragem 
-	- Tipos;
-	- Estimativas;
-	- Comparação com o todo.
-
-5. Modelagem simples
-	- Teste de hipótese
+→ Hannah Beatryz Lima Santos - 20220034925;
 
 
-## TODO:
+## Modo de execução:
 
-- [ ] Pesquisar uma lista base de dados (dataset search)
+- Abra o arquivo `Roteiro_de_análise_Projeto_de_PROB_INF_UNIDADE2.ipynb` no google colabs.
+- Insira o arquivo `\Valorant data\teams.csv` dentro da pasta `sample_data` no colab.
+- Execute os comandos do colab.
+
+
