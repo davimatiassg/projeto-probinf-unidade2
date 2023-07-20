@@ -1,4 +1,4 @@
-# projeto-probinf-unidade2
+# projeto-probinf-unidade3
 Projeto referente à 2ª unidade da disciplina de Probabilidade e Inferência  [IMD1113]
 
 Atualização referente à 3ª unidade da disciplina de Probabilidade e Inferência  [IMD1113] 
