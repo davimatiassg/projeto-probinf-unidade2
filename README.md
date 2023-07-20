@@ -1,9 +1,10 @@
 # projeto-probinf-unidade2
 Projeto referente à 2ª unidade da disciplina de Probabilidade e Inferência  [IMD1113] 
+Atualização referente à 3ª unidade da disciplina de Probabilidade e Inferência  [IMD1113] 
 
 Autoria de:
 
-→ Caio Vinícius de Azevedo   - 20220040815;
+→ Caio Vinicius de Azevedo   - 20220040815;
 
 → Davi Matias Soares Genuino - 20220042186;
 
