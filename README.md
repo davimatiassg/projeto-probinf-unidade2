@@ -3,7 +3,7 @@ Projeto referente à 2ª unidade da disciplina de Probabilidade e Inferência  [
 
 Atualização referente à 3ª unidade da disciplina de Probabilidade e Inferência  [IMD1113] 
 
-Autoria de:
+## Autoria de:
 
 → Caio Vinicius de Azevedo   - 20220040815;
 
